@@ -1,9 +1,9 @@
 # 🧹 AI-Powered Data Cleaning System
 
-## 🚀 Overview
+##  Overview
 The **AI-Powered Data Cleaning System** is a **Streamlit + FastAPI + AI** application that automates data cleaning using **rule-based** and **AI-powered techniques**. It supports data ingestion from **CSV/Excel files, Database queries, and API endpoints** and processes them using **LangChain AI agents** to enhance data quality.
 
-## 📌 Features
+##  Features
 - ✅ **Multi-source Data Ingestion**: Supports CSV/Excel, SQL queries, and API endpoints.
 - ✅ **AI-driven Data Cleaning**: Uses LangChain AI Agents for intelligent cleaning.
 - ✅ **Rule-based Data Preprocessing**: Handles missing values, duplicates, and formatting.
@@ -13,7 +13,7 @@ The **AI-Powered Data Cleaning System** is a **Streamlit + FastAPI + AI** applic
 
 ---
 
-## 🏛️ Architecture & Flow
+##  Architecture & Flow
 ### **1️⃣ Data Ingestion**
 - Users can upload **CSV/Excel** files.
 - Users can enter **SQL Queries** to fetch database data.
@@ -49,9 +49,9 @@ The **AI-Powered Data Cleaning System** is a **Streamlit + FastAPI + AI** applic
 
 ---
 
-## 🎯 How to Run This Project
+##  How to Run This Project
 
-### 🏗️ 1. Create and Activate Virtual Environment
+###  1. Create and Activate Virtual Environment
 ```bash
 # Create a virtual environment
 python -m venv ai_data_cleaning_env
@@ -60,34 +60,21 @@ python -m venv ai_data_cleaning_env
 source ai_data_cleaning_env/bin/activate  # Mac/Linux
 ai_data_cleaning_env\Scripts\activate  # Windows
 
-🚀 2. Install Dependencies
+ 2. Install Dependencies
 
 pip install -r requirements.txt
 
-⚡ 3. Start FastAPI Backend
+ 3. Start FastAPI Backend
 
 uvicorn scripts.backend:app --reload
 
-🖥️ 4. Start Streamlit UI
+ 4. Start Streamlit UI
 
 streamlit run app/app.py
 
 
----
 
-### ✅ **Next Steps**
-- Push this **README.md** to GitHub.
-- Discuss & decide which **AI advancement (Haystack, CrewAI, AutoGPT, etc.)** to integrate.
-- Implement **multi-agent collaboration** for improved AI-driven cleaning.
 
----
-
-### 🔥 **Enhancements Implemented in README**
-✅ **Formatted commands in code blocks**  
-✅ **Added virtual environment setup**  
-✅ **Styled How to Run Section with a cleaner UI (same as your reference image)**  
-✅ **Table for browser links**  
-✅ **Future Enhancements Section**  
 
 
 
