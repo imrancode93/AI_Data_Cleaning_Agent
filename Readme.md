@@ -4,6 +4,7 @@
 The **AI-Powered Data Cleaning System** is a **Streamlit + FastAPI + AI** application that automates data cleaning using **rule-based** and **AI-powered techniques**. It supports data ingestion from **CSV/Excel files, Database queries, and API endpoints** and processes them using **LangChain AI agents** to enhance data quality.
 
 ##  Features
+
 - ✅ **Multi-source Data Ingestion**: Supports CSV/Excel, SQL queries, and API endpoints.
 - ✅ **AI-driven Data Cleaning**: Uses LangChain AI Agents for intelligent cleaning.
 - ✅ **Rule-based Data Preprocessing**: Handles missing values, duplicates, and formatting.
