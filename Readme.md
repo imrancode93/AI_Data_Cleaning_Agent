@@ -45,10 +45,6 @@ The **AI-Powered Data Cleaning System** is a **Streamlit + FastAPI + AI** applic
    - Uses **LangChain & LLMs** to apply intelligent transformations
    - Returns **AI-cleaned data** as JSON for frontend visualization
 
----
-
-
----
 
 ##  How to Run This Project
 
